@@ -32,28 +32,6 @@ Stack and linked list implementation
 
 Real-world logic for store management
 
-📂 Project Structure
-medical_store_management.c
-README.md
-
-🚀 How to Run
-
-Compile the code:
-
-gcc medical_store_management.c -o store
-
-
-Run the program:
-
-./store
-
-🧑‍💻 Contributors
-
-Amrina Rahman (242-35-589)
-
-Al Jubair Badhon (242-35-428)
-
-Milton (242-35-589)
 
 🌱 Future Improvements
 
